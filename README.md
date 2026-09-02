@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=2800&pause=900&color=39D353&center=true&vCenter=true&width=600&lines=root%40affan%3A~%24+whoami;Mohamed+Affan+H;root%40affan%3A~%24+cat+role.txt;Security+Engineering+%2B+GRC+%2B+Applied+ML;root%40affan%3A~%24+echo+%24STATUS;Open+to+internships+from+Nov+2026_" alt="terminal typing" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=2800&pause=900&color=39D353&vCenter=true&width=600&height=30&lines=root%40affan%3A~%24+whoami;Mohamed+Affan+H;root%40affan%3A~%24+cat+role.txt;Security+Engineering+%2B+GRC+%2B+Applied+ML;root%40affan%3A~%24+echo+%24STATUS;Open+to+internships+from+Nov+2026_" alt="terminal typing" />
 
 <sub>Chennai Institute of Technology · Cybersecurity Undergrad</sub>
 
