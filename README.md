@@ -5,6 +5,7 @@
 <img src="https://img.shields.io/badge/PRO-GitHub-FF0080?style=for-the-badge&logo=github&logoColor=white" />
 <img src="https://komarev.com/ghpvc/?username=Affan-cybersecuritist&label=Profile%20Views&color=00C9FF&style=for-the-badge" alt="profile views"/>
 <img src="https://img.shields.io/badge/Open%20to-Security%2FGRC%20Internships-00FF87?style=for-the-badge&logoColor=black&labelColor=black" />
+<a href="https://affan-cybersecuritist.github.io/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-affan--cybersecuritist.github.io-00FF87?style=for-the-badge&logo=googlechrome&logoColor=black" /></a>
 
 <sub>🎓 Chennai Institute of Technology · Cybersecurity Undergrad</sub>
 
