@@ -1,85 +1,93 @@
 <div align="center">
 
-# Mohamed Affan H
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8E2DE2,50:4A00E0,100:00C9FF&height=220&section=header&text=Mohamed%20Affan%20H&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Security%20Engineering%20%7C%20GRC%20%7C%20Applied%20ML&descAlignY=58&descSize=18" width="100%"/>
 
-`$ whoami` → Security Engineering · GRC · Applied ML for security
-<br/>
-`$ status` → Open to internships from November 2026
+<img src="https://img.shields.io/badge/PRO-GitHub-8E2DE2?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://komarev.com/ghpvc/?username=Affan-cybersecuritist&label=Profile%20Views&color=00C9FF&style=for-the-badge" alt="profile views"/>
+<img src="https://img.shields.io/badge/Open%20to-Security%2FGRC%20Internships-4A00E0?style=for-the-badge" />
 
-<sub>Chennai Institute of Technology · Cybersecurity Undergrad</sub>
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/-PRO-0d1117?style=flat-square&logo=github&logoColor=39D353&labelColor=0d1117" height="24"/>
-<img src="https://komarev.com/ghpvc/?username=Affan-cybersecuritist&label=views&color=0d1117&style=flat-square" height="24"/>
-<img src="https://img.shields.io/badge/open_to-security%2Fgrc_internships-0d1117?style=flat-square&labelColor=0d1117&color=39D353" height="24"/>
+<sub>🎓 Chennai Institute of Technology · Cybersecurity Undergrad</sub>
 
 </div>
 
 <br/>
 
-### `$ cat about.md`
+## 👋 About Me
 
-```
-Cybersecurity undergrad focused on Security Engineering and GRC.
-I take security ideas out of theory and into working systems —
-anomaly detection, zero-trust architecture, compliance automation,
-and agentic red/blue-team pipelines.
-```
+`$ cat about.md`
+
+> Cybersecurity undergrad focused on **Security Engineering** and **GRC**. I take security ideas out of theory and into working systems — anomaly detection, zero-trust architecture, compliance automation, and agentic red/blue-team pipelines.
 
 <br/>
 
-### `$ cat projects.log`
+## 🚀 Projects
+
+`$ cat projects.log`
 
 | project | what it does | stack | result |
 |---|---|---|---|
-| **Network Guardian** | Anomaly-based network intrusion detector | Isolation Forest, SHAP | 94.3% ROC-AUC · Smart India Hackathon (NTRO) |
-| **Shadow-Audit** | Verifies live configs against security policy | FastAPI, LangChain SQL Agents, local Llama 3.2 | Automated compliance auditing |
-| **AJENSIKS** | 4-agent DevSecOps swarm — Coder, Tester, Hacker, Patcher | Python, LLM agents | Writes, tests, red-teams & patches code |
-| **ZeroTrustUs** | Zero Trust security platform | — | Canara Bank SuRaksha Hackathon 2.0 · shortlisted |
-| **Civicverse** | Community infrastructure issue reporting | TypeScript, React | Public infra platform |
+| 🛰️ **Network Guardian** | Anomaly-based network intrusion detector | Isolation Forest, SHAP | 🏆 94.3% ROC-AUC · Smart India Hackathon (NTRO) |
+| 🕵️ **Shadow-Audit** | Verifies live configs against security policy | FastAPI, LangChain SQL Agents, local Llama 3.2 | Automated compliance auditing |
+| 🤖 **AJENSIKS** | 4-agent DevSecOps swarm — Coder, Tester, Hacker, Patcher | Python, LLM agents | Writes, tests, red-teams & patches code |
+| 🛡️ **ZeroTrustUs** | Zero Trust security platform | — | 🏆 Canara Bank SuRaksha Hackathon 2.0 · shortlisted |
+| 🏙️ **Civicverse** | Community infrastructure issue reporting | TypeScript, React | Public infra platform |
 
 <br/>
 
-### `$ neofetch --stack`
+## 🧰 Tech Stack
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/-Python-0d1117?style=flat-square&logo=python&logoColor=39D353&labelColor=0d1117" height="28"/>
-<img src="https://img.shields.io/badge/-FastAPI-0d1117?style=flat-square&logo=fastapi&logoColor=39D353&labelColor=0d1117" height="28"/>
-<img src="https://img.shields.io/badge/-scikit--learn-0d1117?style=flat-square&logo=scikitlearn&logoColor=39D353&labelColor=0d1117" height="28"/>
-<img src="https://img.shields.io/badge/-TypeScript-0d1117?style=flat-square&logo=typescript&logoColor=39D353&labelColor=0d1117" height="28"/>
-<img src="https://img.shields.io/badge/-React-0d1117?style=flat-square&logo=react&logoColor=39D353&labelColor=0d1117" height="28"/>
-<img src="https://img.shields.io/badge/-LangChain-0d1117?style=flat-square&logo=langchain&logoColor=39D353&labelColor=0d1117" height="28"/>
-<img src="https://img.shields.io/badge/-Ollama-0d1117?style=flat-square&logo=ollama&logoColor=39D353&labelColor=0d1117" height="28"/>
-<img src="https://img.shields.io/badge/-Docker-0d1117?style=flat-square&logo=docker&logoColor=39D353&labelColor=0d1117" height="28"/>
-<img src="https://img.shields.io/badge/-Linux-0d1117?style=flat-square&logo=linux&logoColor=39D353&labelColor=0d1117" height="28"/>
-<img src="https://img.shields.io/badge/-Git-0d1117?style=flat-square&logo=git&logoColor=39D353&labelColor=0d1117" height="28"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+<br/>
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
+<img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 
 </div>
 
 <br/>
 
-### `$ ./stats.sh --github`
+## 📊 GitHub Stats
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Affan-cybersecuritist&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=39D353&icon_color=39D353&text_color=c9d1d9" height="165"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Affan-cybersecuritist&theme=dark&hide_border=true&background=0d1117&ring=39D353&fire=39D353&currStreakLabel=39D353" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Affan-cybersecuritist&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Affan-cybersecuritist&theme=tokyonight&hide_border=true" height="165"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Affan-cybersecuritist&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
 
 </div>
 
 <br/>
 
-### `$ ./contact.sh`
+## 🏆 Trophies
+
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=Affan-cybersecuritist&theme=radical&no-frame=true&row=1&column=6&margin-w=8" />
+</div>
+
+<br/>
+
+## 📫 Reach Me
 
 <div align="center">
 
-<a href="mailto:hmaaffan@gmail.com"><img src="https://img.shields.io/badge/-hmaaffan@gmail.com-0d1117?style=flat-square&logo=gmail&logoColor=39D353&labelColor=0d1117" height="28"/></a>
-<a href="https://www.linkedin.com/in/mohamed-affan-h" target="_blank"><img src="https://img.shields.io/badge/-mohamed--affan--h-0d1117?style=flat-square&logo=linkedin&logoColor=39D353&labelColor=0d1117" height="28"/></a>
+<a href="mailto:hmaaffan@gmail.com">
+  <img src="https://img.shields.io/badge/Email-hmaaffan%40gmail.com-8E2DE2?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://www.linkedin.com/in/mohamed-affan-h" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-mohamed--affan--h-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
 
 </div>
 
 <br/>
 
-<div align="center"><sub>root@affan:~$ <i>exit</i></sub></div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,50:4A00E0,100:8E2DE2&height=100&section=footer" width="100%"/>
